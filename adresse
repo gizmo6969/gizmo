@@ -1,0 +1,33 @@
+#Embedded BIOS
+#https://drive.google.com/file/d/1qtvQm_873KZFaPtpCHEaWI_BjN4nsr8g/view?usp=share_link
+gpeb="1qtvQm_873KZFaPtpCHEaWI_BjN4nsr8g"
+#Embedded UEFI
+#https://drive.google.com/file/d/1Hb0OeXz-dK8ueccLOdaUZzdDDcNI3FKo/view?usp=share_link
+gpeu="1Hb0OeXz-dK8ueccLOdaUZzdDDcNI3FKo"
+#Xfce4 BIOS
+#https://drive.google.com/file/d/1XsimAEzwVqYu6uDdmvSDroWTtfZZLBpI/view?usp=share_link
+gpxb="1XsimAEzwVqYu6uDdmvSDroWTtfZZLBpI"
+#Xfce4 UEFI
+#https://drive.google.com/file/d/1X2z8u8Rr0ML0fvJmCXPSno8eeymotFo8/view?usp=share_link
+gpxu="1X2z8u8Rr0ML0fvJmCXPSno8eeymotFo8"
+#Rpi3
+#https://drive.google.com/file/d/1Xb8zs_Aw41fHWhTZTLaqJO7Jxeo-z0tK/view?usp=share_link
+gprpi3="1Xb8zs_Aw41fHWhTZTLaqJO7Jxeo-z0tK"
+#Rpi4
+#https://drive.google.com/file/d/1KGsYtUvJYuUF-TDqblKuhP-SqW28blnZ/view?usp=share_link
+gprpi4="1KGsYtUvJYuUF-TDqblKuhP-SqW28blnZ"
+#EXTRM-ALDERLAKE
+#https://drive.google.com/file/d/1MQfmmOT5XPoCgCjahKtEKmeaQDF5YlcJ/view?usp=share_link
+gpalder="1MQfmmOT5XPoCgCjahKtEKmeaQDF5YlcJ"
+#EXTRM-x86-64-v2
+#https://drive.google.com/file/d/1xGUX6eqPzQz_Uko5AW3F366zFpOma99X/view?usp=share_link
+gpv2="1xGUX6eqPzQz_Uko5AW3F366zFpOma99X"
+#EXTRM-x86-64-v3
+#https://drive.google.com/file/d/1YiGVJzo8k2s-X_QCSCKYpf4RI9jhiTTG/view?usp=share_link
+gpv3="1YiGVJzo8k2s-X_QCSCKYpf4RI9jhiTTG"
+#EXTRM-SKYLAKE
+#https://drive.google.com/file/d/1YMpCWfjAq-FSuLGL43T-eUjp6cg0Qmcy/view?usp=share_link
+gpsky="1YMpCWfjAq-FSuLGL43T-eUjp6cg0Qmcy"
+#EXTRM-ZNVER3
+#https://drive.google.com/file/d/1jmKVXynRYEASu8Xlg25ro9kqR9i3YpJ4/view?usp=share_link
+gpzen3="1jmKVXynRYEASu8Xlg25ro9kqR9i3YpJ4"
