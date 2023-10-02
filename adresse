@@ -1,33 +1,33 @@
 #Embedded BIOS
-#https://drive.google.com/file/d/18nPvuYHYboiLDhCPGBoAzG3ZeKDdnsH9/view?usp=sharing
-gpeb="18nPvuYHYboiLDhCPGBoAzG3ZeKDdnsH9"
+#https://drive.google.com/file/d/1-BQwh2BT5OqmoQZJqL4cLdP-VrjzpwzD/view?usp=sharing
+gpeb="1-BQwh2BT5OqmoQZJqL4cLdP-VrjzpwzD"
 #Embedded UEFI
-#https://drive.google.com/file/d/1ehXOjYLp_VDODf7KcYVX4EOewyf5Kz0d/view?usp=sharing
-gpeu="1ehXOjYLp_VDODf7KcYVX4EOewyf5Kz0d"
-#Xfce4 BIOS
-#https://drive.google.com/file/d/1krh4SBn2CZDOH6hydtkKXBIaEPPejUx7/view?usp=sharing
-gpxb="1krh4SBn2CZDOH6hydtkKXBIaEPPejUx7"
+#https://drive.google.com/file/d/1kxkcPOz5WxHQzzPBJq5Kmc94DjsOP2Gs/view?usp=sharing
+gpeu="1kxkcPOz5WxHQzzPBJq5Kmc94DjsOP2Gs"
 #Xfce4 UEFI
-#https://drive.google.com/file/d/1oGsSMvtEowCkKxv4_x4LFLcOfIdRFN0G/view?usp=sharing
-gpxu="1oGsSMvtEowCkKxv4_x4LFLcOfIdRFN0G"
+#https://drive.google.com/file/d/19sBmAhUetLCwpoqFi3AmG24UTDC-aeov/view?usp=sharing
+gpxu="19sBmAhUetLCwpoqFi3AmG24UTDC"
 #Rpi3
-#https://drive.google.com/file/d/1-WbAF4EAz4cLUnyI-BoKHZr8VQsU4zGd/view?usp=sharing
-gprpi3="1-WbAF4EAz4cLUnyI-BoKHZr8VQsU4zGd"
+#https://drive.google.com/file/d/1st4rLaDayyzT62mW4kbsvDedQNCNDAwn/view?usp=sharing
+gprpi3="1st4rLaDayyzT62mW4kbsvDedQNCNDAwn"
 #Rpi4
-#https://drive.google.com/file/d/1shh84bpd4z0l_zWqS_vq9OcwB-6ZXqTd/view?usp=sharing
-gprpi4="1shh84bpd4z0l_zWqS_vq9OcwB-6ZXqTd"
+#https://drive.google.com/file/d/1QNZv6OmMaVufXCsBejRfrmhsTZ4AWdzW/view?usp=sharing
+gprpi4="1QNZv6OmMaVufXCsBejRfrmhsTZ4AWdzW"
 #EXTRM-ALDERLAKE
-#https://drive.google.com/file/d/19x3ctFNzt5ZAkPtcKQXEqXv-cfdaGy-P/view?usp=sharing
-gpalder="19x3ctFNzt5ZAkPtcKQXEqXv-cfdaGy-P"
+#https://drive.google.com/file/d/1112mg9Tfgbsw7ydo2OMgD2XxfYKmSQI1/view?usp=sharing
+gpalder="1112mg9Tfgbsw7ydo2OMgD2XxfYKmSQI1"
 #EXTRM-SKYLAKE
-#https://drive.google.com/file/d/1WDpEN0ekgLoP-Ls4SepQYm66K8LELmud/view?usp=sharing
-gpsky="1WDpEN0ekgLoP-Ls4SepQYm66K8LELmud"
+#https://drive.google.com/file/d/14EFYVScqqLd3FQAGFJgtkW1aJhGhQQMQ/view?usp=sharing
+gpsky="14EFYVScqqLd3FQAGFJgtkW1aJhGhQQMQ"
 #EXTRM-x86-64-v2
-#https://drive.google.com/file/d/1AqeI64mcxj6MaoFkFSCb0AVNcgSjnD0t/view?usp=sharing
-gpv2="1AqeI64mcxj6MaoFkFSCb0AVNcgSjnD0t"
+#https://drive.google.com/file/d/1Clqt2HbFVbBdjeA_GP0hg5gdPpDoP5kF/view?usp=sharing
+gpv2="1Clqt2HbFVbBdjeA_GP0hg5gdPpDoP5kF"
 #EXTRM-x86-64-v3
-#https://drive.google.com/file/d/1vuX4_LknZ8dAkNYLu3-jA6W43mCPBSYy/view?usp=sharing
-gpv3="1vuX4_LknZ8dAkNYLu3-jA6W43mCPBSYy"
+#https://drive.google.com/file/d/1Fi8Gkzic1aN5MnTV2_j4ieXQkOMhtpaW/view?usp=sharing
+gpv3="1Fi8Gkzic1aN5MnTV2_j4ieXQkOMhtpaW"
+#EXTRM-x86-64-v4
+#https://drive.google.com/file/d/1J9l4rh9juPCUP1KriV7G_NTT7N3KYWKr/view?usp=sharing
+gpv4="1J9l4rh9juPCUP1KriV7G_NTT7N3KYWKr"
 #EXTRM-ZNVER3
-#https://drive.google.com/file/d/1ZD_UaXkDexSTriIDLTxxJQiXjMy4CQRS/view?usp=sharing
-gpzen3="1ZD_UaXkDexSTriIDLTxxJQiXjMy4CQRS"
+#https://drive.google.com/file/d/159MI4iuadbBgEkhBvCoq4rQrhM1IrE1P/view?usp=sharing
+gpzen3="159MI4iuadbBgEkhBvCoq4rQrhM1IrE1P"
