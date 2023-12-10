@@ -60,6 +60,24 @@ for mac in $(sed 's/\00:00:00:00:00:00//g' /sys/class/net/*/address | awk 'NF');
     fi
 done
 
+for mac in $(sed 's/\00:00:00:00:00:00//g' /sys/class/net/*/address | awk 'NF'); do
+    hashed_mac=$(echo "$mac" | perl -le 'use Digest::SHA qw(sha1_hex); print sha1_hex(<>);')
+
+    # Verifica se l'hash del MAC è presente nella variabile $stringa
+    found=false
+    while IFS= read -r line; do
+        if [ "$hashed_mac" == "$line" ]; then
+            found=true
+            break
+        fi
+    done <<< "$stringa"
+
+    # Stampa il risultato del confronto
+    if [ "$found" == false ]; then
+        echo "Il MAC hash $hashed_mac non è presente in \$stringa."
+    fi
+done
+
 #######################################
 destination="/etc/default/.hashok"
 stringa_trovata=false
