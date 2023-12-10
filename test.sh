@@ -139,4 +139,4 @@ if [ "$stringa_trovata" = false ]; then
 else
     rm /etc/default/.bhashs 2>/dev/null
 fi
-###############################################
+################################################
