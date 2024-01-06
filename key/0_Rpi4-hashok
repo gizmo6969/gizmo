@@ -1,4 +1,5 @@
 username=droopy7750
+email=
 date_donate="2023-05-14"
 scadenza="unlimited"
 cambio_key=0
@@ -8,6 +9,16 @@ extra_system=
 scad_extra_system=
 droopy7750-hsh=8d64f1320cafd7048820b0b68078e4a6fc82fb2b
 ################################################################################
+username=naumoviczeljko
+email=naumoviczeljko@gmail.com
+date_donate="2024-01-06"
+scadenza="unlimited"
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+naumoviczeljko-hsh=fdbc637c7f1fe84bab4a1b4d2261aee11ba00e19
 ################################################################################
 ################################################################################
 ################################################################################
