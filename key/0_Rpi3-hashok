@@ -9,6 +9,16 @@ extra_system=Rpi3-EXTRM
 scad_extra_system=2024-12-12
 antonellocaroli-hsh=f6e42512fe1dfa406a28dddb58eb62149327d57d
 ################################################################################
+sername=marcinszymankiewicz
+email=marcin.szymankiewicz0@gmail.com
+date_donate="2023-12-14"
+scadenza="unlimited"
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+marcinszymankiewicz-hsh=834a1fa1089330984261ee8420e6f0c152af9287
 ################################################################################
 ################################################################################
 ################################################################################
