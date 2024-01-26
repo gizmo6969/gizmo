@@ -70,6 +70,17 @@ extra_system=
 scad_extra_system=
 marcinszymankiewicz-hsh=8bcd0a32bfab425d69dd3d1018fa24837de7e6b4
 ################################################################################
+username=johnday
+email=john.day@gmx.co.uk
+donate=100
+date_donate="2024-01-26"
+scadenza="unlimited"
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+johnday-hsh=437d3604ec0674518e4ed67eac425e03cb005d50
 ################################################################################
 ################################################################################
 ################################################################################
