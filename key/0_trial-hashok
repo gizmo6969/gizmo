@@ -32,8 +32,13 @@ email=simbeantony@hotmail.com
 scadenza=09/02/2024
 trial7-hsh=5308be0ea41d4629a386d14f9eb67e038e10f605
 ################################################################################
-sername=trial8
+username=trial8
 email=emre_kaplan@outlook.com
 scadenza=10/02/2024
 trial8-hsh=1ee75c578024852b418611fbd520f38d38737a94
+################################################################################
+username=trial9
+email=andreacao@hotmail.com
+scadenza=10/02/2024
+trial9-hsh=5d26022206d1338c31dc62928ecd0d300ee7354c
 ################################################################################
