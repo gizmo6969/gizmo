@@ -178,3 +178,15 @@ extra_system=
 scad_extra_system=
 lourensfeenstra-hsh=cc16950c77e9478420abdb165a42cc7f8f0be557
 ################################################################################
+username=jpmartinel
+email=jpmartinel@orange.fr
+donate=119
+date_donate=2024-02-17
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2025-02-16
+extra_system=
+scad_extra_system=
+jpmartinel-hsh=1a26a6563a5ba19b5bb0db9a8f2bc635f3035fa2
+################################################################################
