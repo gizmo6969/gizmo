@@ -298,3 +298,17 @@ scad_extra_system=
 taka_private-dmi=f6c86e495958197f466fe4fbd6aad6dafce497af
 taka_private-hsh=6842de118237b0e1fd8e737467b2f7e8d0af25de
 ################################################################################
+username=epectaz
+email=info@epectaz.com
+donate=109x3pc
+date_donate=2022-08-26
+scadenza=unlimited
+cambio_key=0
+extra_kernel=SKYLAKE-CLTO
+scad_extra_kernel=2025-02-17
+extra_system=EXTRM-SKYLAKE
+scad_extra_system=2025-02-17
+epectaz-dmi=f63fc5ea1080efb402ee7e842b8c8243495629ad
+epectaz-hsh=f61df815d75a91b4beeece75416f14f65076c81d
+epectaz-hsh=2f65803ea6a3298cf7734b03d29df22b6b230ac0
+################################################################################
