@@ -310,3 +310,15 @@ extra_system=
 scad_extra_system=
 hiromyk000-hsh=f31c40ecc092f45263a335bdd7474aee04cc073d
 ################################################################################
+username=hallithorst
+email=hallithorst@gmail.com
+donate=108
+date_donate=2023-11-14
+scadenza=unlimited
+cambio_key=1
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2024-11-30
+extra_system=
+scad_extra_system=
+hallithorst-hsh=16830821f61a17fb8651ae25ba9e267aab40e838
+################################################################################
