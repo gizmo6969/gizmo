@@ -21,7 +21,6 @@ trial0-hsh=a157a5d3408331ae7dccfbf71677033f44b07976
 trial0-hsh=a79b20cbba6670a808061160ef8a6d63f76ca858
 trial0-hsh=c960fa73f52b7b4af13c8f4eac0e5cec3fda19f0
 ################################################################################
-username=trial49
 username=trial50
 email=wjlin@lcgck.com
 scadenza=09/03/2024
@@ -85,4 +84,9 @@ username=trial62
 email=milenkotulencic@yahoo.co.uk
 scadenza=16/03/2024
 trial62-hsh=625a2e3ac48128a14b4e51d0078a260fb0d60c93
+################################################################################
+username=trial63
+email=sorin_fotache@yahoo.com
+scadenza=17/03/2024
+trial63-hsh=2c53540d07c40c19877c0e7b9c9bbbff8906cbdc
 ################################################################################
