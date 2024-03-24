@@ -310,3 +310,15 @@ extra_system=
 scad_extra_system=
 patrickhalff-hsh=fd06b110ed01a74acf9a2d28861bf898fe3ad733
 ################################################################################
+username=harantvladimir
+email=harant.vladimir@gmail.com
+donate=69
+date_donate=2023-08-23
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi3-CLTO
+scad_extra_kernel=2025-03-24
+extra_system=
+scad_extra_system=
+harantvladimir-hsh=5550c4c6f160079c7aacf0ed46e08b0f03c5a326
+################################################################################
