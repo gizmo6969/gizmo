@@ -596,8 +596,9 @@ extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-yu-dmi=f63fc5ea1080efb402ee7e842b8c8243495629ad
+yu-dmi=555dffe9a83327e270f7a505011fbe7cb9fc853f
 yu-hsh=2c30d90fd91170817dd364e18e79edc6acdcfbc3
+yu-hsh=29e645ff97dd57fdd2df4fd4e763fbb50ce94acd
 ################################################################################
 username=20079298
 email=20079298@qq.com
