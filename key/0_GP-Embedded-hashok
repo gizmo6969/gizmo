@@ -621,12 +621,12 @@ donate=69
 date_donate=2024-04-04
 scadenza=unlimited
 cambio_key=0
-extra_kernel=SKYLAKE-CLTO
+extra_kernel=ALDERLAKE-CLTO
 scad_extra_kernel=2025-04-10
 extra_system=
 scad_extra_system=
-altsouza-dmi=28e7e5c7fe88129ac70d8ee8e997a3edee031c7f
-altsouza-hsh=11307e3ad8de6f46ab7095d8ec3bba0b88fa8efc
+altsouza-dmi=6dc8f0df5b881327292db613313a4064bde58fb9
+altsouza-hsh=aa8c0c2b5c411232a167eff7c3ec20ed173a2b4d
 ################################################################################
 username=macincube
 email=macincube@mac.com
