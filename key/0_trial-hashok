@@ -28,11 +28,6 @@ email=kriptonas@gmail.com
 scadenza=11/07/2024
 trial188-hsh=dcf9960c6132776f1adc7c1969906592203bc0d8
 ################################################################################
-username=trial189
-email=o.decorse@gmail.com
-scadenza=11/07/2024
-trial189-hsh=0eb4feffacc62141e8e6c03bcc3f39c0e3c1f762
-################################################################################
 username=trial190
 email=sukmano@gmail.com
 scadenza=14/07/2024
@@ -58,6 +53,11 @@ username=trial193
 email=robert.cavor@gmail.com
 scadenza=17/07/2024
 trial193-hsh=727361f69ef416e11fc71899202a545eab5ec7b5
+################################################################################
+username=trial189
+email=o.decorse@gmail.com
+scadenza=18/07/2024
+trial189-hsh=0eb4feffacc62141e8e6c03bcc3f39c0e3c1f762
 ################################################################################
 username=trial194
 email=ben.corten@westburyanalytics.com
