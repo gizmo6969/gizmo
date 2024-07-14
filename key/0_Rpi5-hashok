@@ -226,3 +226,15 @@ extra_system=
 scad_extra_system=
 mdehoorne-hsh=19cd3d5f326e8032f871b16c65d12b7252ab0e67
 ################################################################################
+username=leborgnemail
+email=leborgnemail@icloud.com
+donate=138
+date_donate=2024-07-14
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi5-CLTO
+scad_extra_kernel=2025-07-14
+extra_system=Rpi5-EXTRM
+scad_extra_system=2025-07-14
+leborgnemail-hsh=7b610264377c7116d88387f597ff01e4f9056ea7
+################################################################################
