@@ -1282,3 +1282,15 @@ extra_system=Rpi4-EXTRM
 scad_extra_system=2025-07-23
 cmho2007-hsh=43440a81b2e56230b5effc92fc6f74a99e3d5771
 ################################################################################
+username=chrisangle
+email=chrisangle@comcast.net
+donate=69
+date_donate=2024-07-25
+scadenza=unlimited
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+chrisangle-hsh=8c96718b43190020a2363add40701b2b1c80eb95
+################################################################################
