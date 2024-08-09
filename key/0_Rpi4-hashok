@@ -186,8 +186,8 @@ scadenza=unlimited
 cambio_key=0
 extra_kernel=Rpi4-CLTO
 scad_extra_kernel=2025-02-16
-extra_system=
-scad_extra_system=
+extra_system=Rpi4-EXTRM
+scad_extra_system=2025-02-16
 jpmartinel-hsh=1a26a6563a5ba19b5bb0db9a8f2bc635f3035fa2
 ################################################################################
 username=klaasspeelman66
