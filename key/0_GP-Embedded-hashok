@@ -537,10 +537,9 @@ extra_kernel=ALDERLAKE-CLTO
 scad_extra_kernel=2025-02-18
 extra_system=
 scad_extra_system=
-wiedowde-dmi=48d98fe77479a1fd1ce905a12d76694e71320903
-wiedowde-hsh=d61100c359f8619f4e77b77ce407d8fb5a1f5f93
-wiedowde-hsh=ba9255d02b482139a1b975ea3fa2b90c1fa5793b
-wiedowde-hsh=c9eda0b6afef4eb6cb17a082dcddecbc2e2e16f1
+wiedowde-dmi=3bf5787cbe7e489dd7ad7c221879807716d72bb1
+wiedowde-hsh=2a694dc8633eeef268ae241d1398ec6878215663
+wiedowde-hsh=1062409e0faaceb5546ccd0a46e739f3c17143f9
 ################################################################################
 username=darylhuwae
 email=darylhuwae@hotmail.nl
