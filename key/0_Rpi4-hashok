@@ -1426,3 +1426,15 @@ extra_system=
 scad_extra_system=
 alexbartels-hsh=39a1d2c3b8e92984ff700dc8190040578a666469
 ################################################################################
+username=mheinrich
+email=m-heinrich@web.de
+donate=2024-08-27
+date_donate=0
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2024-08-27
+extra_system=
+scad_extra_system=
+mheinrich-hsh=224b837a6add35850fd9b0d7de2dced6cb3eeff0
+################################################################################
