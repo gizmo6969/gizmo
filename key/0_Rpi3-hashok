@@ -802,3 +802,15 @@ extra_system=
 scad_extra_system=
 christianbeeler-hsh=badea14f37817b6905776b8edb41afe3ce210d52
 ################################################################################
+username=harantvladimir_pc1
+email=harant.vladimir@gmail.com
+donate=414-4rpi3-3extra
+date_donate=2024-09-01
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi3-CLTO
+scad_extra_kernel=2025-09-01
+extra_system=Rpi3-EXTRM
+scad_extra_system=2025-09-01
+harantvladimir_pc1-hsh=bbcf649e9ee4a180e7af3008f5faf4b67d9c7ca1
+################################################################################
