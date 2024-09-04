@@ -1378,13 +1378,13 @@ email=butubukou@gol.com
 donate=69
 date_donate=2024-08-09
 scadenza=unlimited
-cambio_key=2
+cambio_key=3
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-butubukou-dmi=360988c4c500c30e8d86a5679a3566c485c9c709
-butubukou-hsh=36926be2970ad0222d4157bb47387ccce7fe8148
+butubukou-dmi=fcde0175c664bea4a6e8e5db79bacbc2d8a558b0
+butubukou-hsh=ac412081dcff35eed783934d5d48e4d76aabbd54
 ################################################################################
 username=kunzinger
 email=kunzinger@t-online.de
