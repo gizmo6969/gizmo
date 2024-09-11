@@ -849,14 +849,14 @@ email=15600605827@163.com
 donate=69
 date_donate=2024-05-05
 scadenza=unlimited
-cambio_key=1
+cambio_key=2
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
 15600605827-dmi=f63fc5ea1080efb402ee7e842b8c8243495629ad
-15600605827-hsh=fc68008ae21d3aa4018cf896c1a69b9fd0f7b8da
-15600605827-hsh=d2fe01f5227f66586d729af11aeff2a22af6e6e6
+15600605827-hsh=866d7d7c4d57c8625a240424e6d2d7b5d3c5e1e7
+15600605827-hsh=bce6069badb5974f4c11379edb0fea38bd97119a
 ################################################################################
 username=florentstaley
 email=florent.staley@laposte.net
