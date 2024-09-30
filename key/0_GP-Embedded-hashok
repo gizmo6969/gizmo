@@ -703,8 +703,8 @@ extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-mathieu277-dmi=3275473cd9c1a80895380a63163c23f5551b7de0
-mathieu277-hsh=a0e863f3b47bea92736fe5a5a9d076127a930bd9
+mathieu277-dmi=71c160978495f15bb2ca432bfcec21ca53d1f9fd
+mathieu277-hsh=9f666241f5466fecb1dbbd4efe607e43a39889c8
 ################################################################################
 username=pcampe
 email=p.campe@cegetel.net
