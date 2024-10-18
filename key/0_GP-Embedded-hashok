@@ -1571,8 +1571,8 @@ scadenza=unlimited
 cambio_key=0
 extra_kernel=ALDERLAKE-CLTO
 scad_extra_kernel=2025-09-30
-extra_system=
-scad_extra_system=
+extra_system=ALDERLAKE-EXTRM
+scad_extra_system=2025-10-18
 douglasmcewen-dmi=fa0ac416e8e43ebc34d9ff541c1e6acf5a28c8f5
 douglasmcewen-hsh=2f2120cdebce26cb60689d32ca21a88acd1106d7
 ################################################################################
