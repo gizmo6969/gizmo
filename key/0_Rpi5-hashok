@@ -363,12 +363,12 @@ email=hansbeekhuyzen@mac.com
 donate=gratis
 date_donate=2024-09-16
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-hansbeekhuyzen-hsh=972a9f527d294698af26200e3d604676199e2f0f
+hansbeekhuyzen-hsh=0394e44e060ce2e6cd860971e2e14e9297bcae4c
 ################################################################################
 username=mariozablocki
 email=mario.zablocki@itsustavi.hr
