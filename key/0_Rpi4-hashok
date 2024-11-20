@@ -1947,12 +1947,12 @@ email=geluidloopt@me.com
 donate=69
 date_donate=2024-11-16
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-geluidloopt-hsh=e8d2771b5495940aae2375d5f4cc24e8ad207e1c
+geluidloopt-hsh=e061b0652c48a639c2543af40690bfdd749228ed
 ################################################################################
 username=vonlaffert
 email=vonlaffert@lyravox.de
