@@ -1996,3 +1996,16 @@ krell374-dmi=57593f5442d466ff642cd5fde4e2619b59d7a153
 krell374-hsh=35c1964752b6a9916a094e795a7b286c244fba45
 krell374-hsh=0704392c772f9f1b3ace3bd5c02f648f726ecd50
 ################################################################################
+username=sandrosorgato
+email=sandrosorgato@gmail.com
+donate=69
+date_donate=2024-01-04
+scadenza=unlimited
+cambio_key=0
+extra_kernel=SKYLAKE-CLTO
+scad_extra_kernel=2025-12-03
+extra_system=SKYLAKE-EXTRM
+scad_extra_system=2025-12-03
+sandrosorgato-dmi=2c7e827ae13a4a3f4ae97c0ce6e0ef60775f4eb9
+sandrosorgato-hsh=7b950180aa9cd7e59b2e9d7dd422a3737e118ab0
+################################################################################
