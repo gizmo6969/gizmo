@@ -2110,3 +2110,15 @@ extra_system=
 scad_extra_system=
 dlalihatu-hsh=69eaebafeae5017237e44853ed0ce7990a0af1ef
 ################################################################################
+username=jiami_shen
+email=jiami.shen@gmail.com
+donate=108
+date_donate=2024-12-20
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2025-12-20
+extra_system=
+scad_extra_system=
+jiami_shen-hsh=908f24712a685bf106d0fb4cfeb3754da2dbac98
+################################################################################
