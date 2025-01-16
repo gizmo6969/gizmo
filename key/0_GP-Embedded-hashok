@@ -2367,3 +2367,16 @@ svillerio-dmi=256aaf055eb73b3946eec368f47f7bfc3dbb862c
 svillerio-hsh=f9d6d208f98e1505c59f4d3518af2b486d34c586
 svillerio-hsh=3be0614ab1e21ae925d9dd9a8a56734a8b3f403a
 ################################################################################
+username=sebastien_t
+email=sebastien.theurel@bbox.fr
+donate=120
+date_donate=2025-01-16
+scadenza=unlimited
+cambio_key=0
+extra_kernel=x86-64-v2-CLTO
+scad_extra_kernel=2026-01-16
+extra_system=
+scad_extra_system=
+sebastien_t-dmi=ca2e9723287c191765e3c95653f7ded356647892
+sebastien_t-hsh=13a82f967711fb0e173d01c3cd85f5aa396784f1
+################################################################################
