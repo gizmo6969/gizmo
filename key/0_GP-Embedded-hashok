@@ -2521,6 +2521,7 @@ extra_system=x86-64-v3-EXTRM
 scad_extra_system=2026-02-17
 mechanix7-dmi=fe6b42809f6178bb134f3697328af10f4f49b96d
 mechanix7-hsh=f060598e5b70d40798b1c6594f15c7f1b39840e2
+mechanix7-hsh=435c462badc0f7fd2daba0765552b9df01dac3db
 ################################################################################
 username=ceesderksen1
 email=ceesderksen1@gmail.com
