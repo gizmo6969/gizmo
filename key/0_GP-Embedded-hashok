@@ -2188,13 +2188,13 @@ email=sho.ogasawara@gmail.com
 donate=69
 date_donate=2025-01-05
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-sho_ogasawara-dmi=aee8e70ae3455f361ec8953f90bad3211f949598
-sho_ogasawara-hsh=0e2fba1a0fe04f303dd51f6c0b33fd4f275dbe26
+sho_ogasawara-dmi=db5bfa8eda1f0e6eea17b220fe2cede58c5e0ce1
+sho_ogasawara-hsh=7cc538dcfb28395e1567d317687d75c0f51724c8
 sho_ogasawara-hsh=a1b0794dc7bd929f828ce550f13ccc3d4b57728c
 sho_ogasawara-hsh=4118eba40ceb257091cfda022307fd4eb1642206
 ################################################################################
