@@ -2578,3 +2578,17 @@ kazu_74_1-dmi=330dfc82110f8a1e01d8b76fed3097bb95290b0c
 kazu_74_1-hsh=911acfee924cfba989b5c22b3fa97e652ee5c9e6
 kazu_74_1-hsh=0edcb5ebdfd5b13b6d9b3e1b6331a0705b1e8aee
 ################################################################################
+username=scpayet
+email=scpayet@gmail.com
+donate=138
+date_donate=2025-03-04
+scadenza=unlimited
+cambio_key=0
+extra_kernel=SKYLAKE-CLTO
+scad_extra_kernel=2026-03-04
+extra_system=SKYLAKE-EXTRM
+scad_extra_system=2026-03-04
+scpayet-dmi=229942b9a57b61976bebbb9b41847377e7f61fe0
+scpayet-hsh=2d3b4aed89c4c2fcf3f98965c67cdc1ef479ebb1
+scpayet-hsh=7aafdfaa593cf65fbab4f183f92e6905b24b10d8
+################################################################################
