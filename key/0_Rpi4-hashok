@@ -2319,12 +2319,12 @@ email=minionas@gmail.com
 donate=69
 date_donate=2025-10-11
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=Rpi4-CLTO
 scad_extra_kernel=2026-02-20
 extra_system=
 scad_extra_system=
-minionas-hsh=38745592e575ad7f7612d68295efe1979498a90a
+minionas-hsh=a6f7f679f6d6777c88bce83a153b2fe0ff29eeb7
 ################################################################################
 username=MrXu
 email=hjl76421@126.com
