@@ -2626,3 +2626,15 @@ extra_system=
 scad_extra_system=
 pjff10-hsh=f93811ac8d7f5a93e3662482f7e855a11ae66c52
 ################################################################################
+username=avp_ukr
+email=avp.ukr@gmail.com
+donate=140
+date_donate=2025-03-11
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2026-03-11
+extra_system=Rpi4-EXTRM
+scad_extra_system=2026-03-11
+avp_ukr-hsh=00b407e632b8de6e5ee65f6fcc24344e48013e26
+################################################################################
