@@ -1583,7 +1583,7 @@ email=misterspense@gmail.com
 donate=69
 date_donate=2024-09-08
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
@@ -2663,4 +2663,18 @@ extra_system=
 scad_extra_system=
 m_agrimi-dmi=03af152db2b206eb70e13111e5a301e7fee8f680
 m_agrimi-hsh=227a41daa2f38468df034cf4d1a82d5f7d2d5ee5
+################################################################################
+username=onikunio1965
+email=onikunio1965@gmail.com
+donate=69
+date_donate=2025-03-20
+scadenza=unlimited
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+onikunio1965-dmi=4d2c775770d2ccba9577b981a1f80a615f39ea46
+onikunio1965-hsh=93b1c8e74c919cc4adb013606c67d72bcfd0884d
+onikunio1965-hsh=6ad2cbc68f73893cc39eeb02640fcff6be9efa15
 ################################################################################
