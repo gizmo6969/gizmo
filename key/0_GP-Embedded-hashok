@@ -2747,3 +2747,16 @@ scad_extra_system=2026-04-12
 cybertik_1-dmi=8a3ff5a0f81ae110ae577bbffb863584747e75b9
 cybertik_1-hsh=434a4c89d4da643284782c3dd3df8fa02cb93ca0
 ################################################################################
+username=cybertik_2
+email=cybertik@naver.com
+donate=200-2PC
+date_donate=2025-04-12
+scadenza=unlimited
+cambio_key=0
+extra_kernel=ALDERLAKE-CLTO
+scad_extra_kernel=2026-04-12
+extra_system=ALDERLAKE-EXTRM
+scad_extra_system=2026-04-12
+cybertik_2-dmi=553df000d2f71a50e87dacc68d05b2a36b83822b
+cybertik_2-hsh=f5895dc7bca14141a7880ebd68a9834cba3e60e3
+################################################################################
