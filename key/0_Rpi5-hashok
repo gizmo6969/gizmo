@@ -1498,3 +1498,15 @@ extra_system=
 scad_extra_system=
 fukumoto8008-hsh=f24022ced427a7b7fd85f467aa53f940b0776675
 ################################################################################
+username=rampazzopaolo
+email=rampazzopaolo@rampazzo.sk
+donate=108
+date_donate=2025-05-08
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi5-CLTO
+scad_extra_kernel=2026-05-08
+extra_system=
+scad_extra_system=
+rampazzopaolo-hsh=7e7cce095cc216417698c261d4fce5b990a3b918
+################################################################################
