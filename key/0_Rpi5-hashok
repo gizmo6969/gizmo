@@ -1522,7 +1522,7 @@ extra_system=
 scad_extra_system=
 jaap_verhoeven-hsh=3c9a161a63d48556f094dae8cc01a93bf6f4c57c
 ################################################################################
-username=magna_cust15
+username=magna_cust16
 email=rob@magnahifi.com
 donate=69
 date_donate=2025-05-13
@@ -1532,5 +1532,5 @@ extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-magna_cust15-hsh=1e32a26b19d8a9ea3217e261c2284ef9c1158198
+magna_cust16-hsh=1e32a26b19d8a9ea3217e261c2284ef9c1158198
 ################################################################################
