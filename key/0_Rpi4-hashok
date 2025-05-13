@@ -2974,3 +2974,15 @@ extra_system=
 scad_extra_system=
 coucke_2-hsh=16ec3b5a9d385efe7263b8dba922db11a627341d
 ################################################################################
+username=somanna
+email=lava.somanna@gmail.com
+donate=111
+date_donate=2025-05-13
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2026-05-13
+extra_system=
+scad_extra_system=
+somanna-hsh=19f04669a407f7e6c219b3dd542ca29d811e487a
+################################################################################
