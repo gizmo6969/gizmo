@@ -3130,3 +3130,15 @@ extra_system=
 scad_extra_system=
 goran-hsh=f54db30469ed41702c1736ddb0f80a3995ce94c8
 ################################################################################
+username=viren
+email=viren@vkhatri.com
+donate=138
+date_donate=2025-06-07
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2026-06-07
+extra_system=Rpi4-EXTRM
+scad_extra_system=2026-06-07
+viren-hsh=cadbfe0faf99f5221bc7749217a37f7cb5e25858
+################################################################################
