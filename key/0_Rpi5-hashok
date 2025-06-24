@@ -1726,3 +1726,15 @@ extra_system=
 scad_extra_system=
 minionas-hsh=737339ce2f1453ca46a3aa88887145a9914dc8ea
 ################################################################################
+username=pietro_g
+email=pietro.grassano@icloud.com
+donate=138
+date_donate=2025-06-24
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi5-CLTO
+scad_extra_kernel=2026-06-24
+extra_system=Rpi5-EXTRM
+scad_extra_system=2026-06-24
+pietro_g-hsh=5718ac0998c97877a8ea4306ef9fd7fc4e11b1da
+################################################################################
