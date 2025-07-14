@@ -807,12 +807,12 @@ email=harant.vladimir@gmail.com
 donate=414-4rpi3-3extra
 date_donate=2024-09-01
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=Rpi3-CLTO
 scad_extra_kernel=2025-09-01
 extra_system=Rpi3-EXTRM
 scad_extra_system=2025-09-01
-harantvladimir_pc2-hsh=e3de07ad472006c3fedb6d92638aa4220a126531
+harantvladimir_pc2-hsh=420b960e6f62e89b3d0f13e40a3f5a622b7087af
 ################################################################################
 username=gudagen
 email=gudagen@gmail.com
