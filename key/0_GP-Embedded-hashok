@@ -3277,3 +3277,16 @@ HXAhost-dmi=b6c1f4baafc62f2b1deddc92fda4e0d0bcfcc64d
 HXAhost-hsh=c02824f7f5ccddc15ae03185fee4dd6e3db28264
 HXAhost-hsh=27b8524608928add5c758f7050588793533f6ea3
 ################################################################################
+username=antonellocaroli_i7
+email=antonellocaroli@gmail.com
+donate=
+date_donate=2020-06-15
+scadenza=unlimited
+cambio_key=0
+extra_kernel=x86-64-v2-CLTO
+scad_extra_kernel=mai
+extra_system=x86-64-v2-EXTRM
+scad_extra_system=mai
+antonellocaroli_i7-dmi=0d100ad6c9fd7e24721ec4ddba8306413908f3fd
+antonellocaroli_i7-hsh=eee22e1e7975dfe5c1b54a8f936c1a34f97629cf
+################################################################################
