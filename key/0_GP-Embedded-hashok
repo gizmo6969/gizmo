@@ -2741,13 +2741,14 @@ email=cybertik@naver.com
 donate=200
 date_donate=2025-04-12
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=ALDERLAKE-CLTO
 scad_extra_kernel=2026-04-12
 extra_system=ALDERLAKE-EXTRM
 scad_extra_system=2026-04-12
-cybertik_1-dmi=8a3ff5a0f81ae110ae577bbffb863584747e75b9
-cybertik_1-hsh=434a4c89d4da643284782c3dd3df8fa02cb93ca0
+cybertik_1-dmi=8ffd8ce3460e29a5cbb55f9f8b81c5923a8c24c4
+cybertik_1-hsh=a15fca811b2566a11a33109d3c3a488b7e67a3b7
+cybertik_1-hsh=23e91b23afe05069dacf77fc20314a237f354531
 ################################################################################
 username=cybertik_2
 email=cybertik@naver.com
