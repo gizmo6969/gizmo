@@ -3292,3 +3292,16 @@ scad_extra_system=mai
 antonellocaroli_i7-dmi=0d100ad6c9fd7e24721ec4ddba8306413908f3fd
 antonellocaroli_i7-hsh=eee22e1e7975dfe5c1b54a8f936c1a34f97629cf
 ################################################################################
+username=antonellocaroli_i9
+email=antonellocaroli@gmail.com
+donate=
+date_donate=
+scadenza=unlimited
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+antonellocaroli_i9-dmi=8fdddd24171e14eaf3c35c3f097a287b5373e7fb
+antonellocaroli_i9-hsh=0bea9c62e2a233f5fd9485f3ae05b4e9ff25325f
+################################################################################
