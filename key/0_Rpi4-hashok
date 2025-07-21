@@ -3466,3 +3466,15 @@ extra_system=Rpi4-EXTRM
 scad_extra_system=2026-07-20
 tb-hsh=2541800cc8c27d30e60932335def04d812e8b9ca
 ################################################################################
+username=m5
+email=m5@ziggo.nl
+donate=69
+date_donate=2025-07-21
+scadenza=unlimited
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+m5-hsh=56c190ba493ee2a46501114eaecfd723843eab20
+################################################################################
