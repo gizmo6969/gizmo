@@ -3416,3 +3416,16 @@ bjcwolters-dmi=36890a4edd49662e007fb1836f1c8a671723f0ac
 bjcwolters-hsh=1d3a1084005d00ac2e1bd13c07364659c91465d4
 bjcwolters-hsh=8580347d435e35a480f41bf6433a2b31df895d02
 ################################################################################
+username=marazan
+email=steve@paiger.org
+donate=200
+date_donate=2025-07-25
+scadenza=unlimited
+cambio_key=0
+extra_kernel=x86-64-v3-CLTO
+scad_extra_kernel=
+extra_system=x86-64-v3-EXTRM
+scad_extra_system=
+marazan-dmi=4bd912f29296ee9f00ae778c27f2636d68bb749d
+marazan-hsh=66d5185ecc94021dc3906c311d9dc53c74437558
+################################################################################
