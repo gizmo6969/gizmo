@@ -676,10 +676,10 @@ donate=69
 date_donate=2024-07-30
 scadenza=unlimited
 cambio_key=0
-extra_kernel=
-scad_extra_kernel=
-extra_system=
-scad_extra_system=
+extra_kernel=Rpi3-CLTO
+scad_extra_kernel=2026-07-30
+extra_system=Rpi3-EXTRM
+scad_extra_system=2026-07-30
 deebletonkin-hsh=07c11d90e6d6bdb3807a1a36ccc6e37a5b3d525f
 ################################################################################
 username=hansbeekhuyzen
