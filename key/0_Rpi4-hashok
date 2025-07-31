@@ -3562,3 +3562,15 @@ extra_system=
 scad_extra_system=
 GrandAudio_19-hsh=0b9afd1d91254618277a317ecacd6f3c35e434ae
 ################################################################################
+username=dominik
+email=dominik.behning@googlemail.com
+donate=138
+date_donate=2025-07-31
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2026-07-31
+extra_system=Rpi4-EXTRM
+scad_extra_system=2026-07-31
+dominik-hsh=172c910e2f1d904567b167bd739e56304aa5523e
+################################################################################
