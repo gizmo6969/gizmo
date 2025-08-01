@@ -3586,15 +3586,3 @@ extra_system=Rpi4-EXTRM
 scad_extra_system=2026-08-01
 david-hsh=f89978175e52c53284cace10b8c6083afa69f463
 ################################################################################
-username=dimitrisvogas_1
-email=dimitrisvogas@gmail.com
-donate=69
-date_donate=2025-08-01
-scadenza=unlimited
-cambio_key=0
-extra_kernel=
-scad_extra_kernel=
-extra_system=
-scad_extra_system=
-dimitrisvogas_1-hsh=a93e4c64a20a2bfa57ca4960f10b8334dab059be
-################################################################################
