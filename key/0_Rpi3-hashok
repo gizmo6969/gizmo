@@ -1750,3 +1750,15 @@ extra_system=Rpi3-EXTRM
 scad_extra_system=2026-09-05
 omsonas-hsh=8ef0f5ed468d0f4d427886a3c2827d5e382776dc
 ################################################################################
+username=omsonas_1
+email=omsonas@gmail.com
+donate=69
+date_donate=2025-09-11
+scadenza=unlimited
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+omsonas_1-hsh=84ab19912bcc63e1eca20ab39a489400c8c0aa5a
+################################################################################
