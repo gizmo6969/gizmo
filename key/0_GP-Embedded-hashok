@@ -3688,3 +3688,16 @@ osamu-dmi=27435aefb7e662f489cc343f208b8f5747f73ec7
 osamu-hsh=b3f2475c55a7b9385e4233c14855427f16881e57
 osamu-hsh=b979e640b7f02797170ed06f3201247fb57372a6
 ################################################################################
+username=john
+email=john@jdfly.net
+donate=200
+date_donate=2025-09-16
+scadenza=unlimited
+cambio_key=0
+extra_kernel=x86-64-v3-CLTO
+scad_extra_kernel=Unlimited
+extra_system=EXTRM-x86-64-v3
+scad_extra_system=Unlimited
+john-dmi=46c8afc9a18cc4ebd50574fcd26b4b3c85e144b4
+john-hsh=3e4d8c4fb2ceed12a88b3f1aa8ffaa65255953fd
+################################################################################
