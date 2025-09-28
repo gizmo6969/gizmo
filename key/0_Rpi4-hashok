@@ -1709,9 +1709,9 @@ date_donate=2024-07-17
 scadenza=unlimited
 cambio_key=0
 extra_kernel=Rpi4-CLTO
-scad_extra_kernel=2025-07-10
-extra_system=
-scad_extra_system=
+scad_extra_kernel=2026-09-28
+extra_system=Rpi4-ETRM
+scad_extra_system=2026-09-28
 o_decorse-hsh=0eb4feffacc62141e8e6c03bcc3f39c0e3c1f762
 ################################################################################
 username=peterreedijkchina
