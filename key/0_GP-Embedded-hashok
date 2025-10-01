@@ -578,13 +578,11 @@ date_donate=2024-03-23
 scadenza=unlimited
 cambio_key=0
 extra_kernel=ZEN3-CLTO
-scad_extra_kernel=2025-03-23
+scad_extra_kernel=2026-10-01
 extra_system=EXTRM-ZNVER3
-scad_extra_system=2025-03-23
+scad_extra_system=2026-10-01
 cometdomi-dmi=f63fc5ea1080efb402ee7e842b8c8243495629ad
-cometdomi-hsh=d5045d38210452863825636a1e8b9ecd85cece5f
-cometdomi-hsh=1d7e73a00a604d5c0e95e2eb96d05c7012fabae9
-cometdomi-hsh=b253cf378a1914d0ba453395a2dda31771f05a05
+cometdomi-hsh=66a40010644b4562bf24f5f735ed13cdc861c49d
 ################################################################################
 username=yu
 email=yu@diretta.link
