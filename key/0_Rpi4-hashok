@@ -3087,12 +3087,12 @@ email=cyrilforges@yahoo.fr
 donate=69
 date_donate=2025-05-29
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-cyrilforges-hsh=80f184a3e03300e8d9d33256102f1ebf83f57830
+cyrilforges-hsh=b910e3d86424753851192f4a62eb1169a4773418
 ################################################################################
 username=s_maucy
 email=s.maucy@gmail.com
