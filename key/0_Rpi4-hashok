@@ -4006,3 +4006,15 @@ extra_system=
 scad_extra_system=
 martin-hsh=4e421ec5b0ab992243ab55abcf73bee8085e9ec9
 ################################################################################
+username=warnerwrong
+email=warnerwrong@gmail.com
+donate=138
+date_donate=2025-10-19
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2026-10-19
+extra_system=Rpi4-EXTRM
+scad_extra_system=2026-10-19
+warnerwrong-hsh=e6339b9769597f2d077e472450740be1c8f8f5c2
+################################################################################
