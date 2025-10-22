@@ -3630,14 +3630,13 @@ email=freekh32@naver.com
 donate=69
 date_donate=2025-08-30
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-freekh-dmi=a68b96a8fe0706d2b08a6c51c5852bf4d0ac76fb
-freekh-hsh=ecbaff9be1b2ec87c57c7591448de8065b29d6af
-freekh-hsh=4122108d74c7cdb59bb6fa026f0b0d69b1a03158
+freekh-dmi=780c867278f56a43d0b625a40678aa65d8f165bf
+freekh-hsh=a13b209ddf5006191cc45ecbf9e262b8c7dfb501
 ################################################################################
 username=minionas
 email=minionas@gmail.com
