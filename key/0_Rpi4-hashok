@@ -1768,10 +1768,10 @@ donate=69
 date_donate=2024-10-28
 scadenza=unlimited
 cambio_key=0
-extra_kernel=
-scad_extra_kernel=
-extra_system=
-scad_extra_system=
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2026-10-30
+extra_system=Rpi4-EXTRM
+scad_extra_system=2026-10-30
 alfredvanhoorn-hsh=d38d6db9dc702bc76b5ebba32d1dc80bcb6ced0e
 ################################################################################
 username=alfredvanhoorn_1
