@@ -4107,12 +4107,12 @@ email=sa3999@yahoo.com
 donate=69
 date_donate=2025-11-01
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-sa3999_1-hsh=281dc691e3c2b29b2cff7d953324edd54a5968d9
+sa3999_1-hsh=d572d26d80763608c5d275029c185e0a80944e1b
 ################################################################################
 username=rainman
 email=rainman396@gmail.com
