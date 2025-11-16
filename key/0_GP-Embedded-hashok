@@ -2372,13 +2372,14 @@ email=sebastien.theurel@bbox.fr
 donate=120
 date_donate=2025-01-16
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=x86-64-v2-CLTO
 scad_extra_kernel=2026-01-16
 extra_system=
 scad_extra_system=
 sebastien_t-dmi=ca2e9723287c191765e3c95653f7ded356647892
 sebastien_t-hsh=13a82f967711fb0e173d01c3cd85f5aa396784f1
+sebastien_t-hsh=96b0928ad8a34d25df1ed602f9f6479d16aa5c2f
 ################################################################################
 username=126_1
 email=hjl76421@126.com
