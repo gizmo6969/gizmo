@@ -3800,13 +3800,14 @@ email=freekh32@naver.com
 donate=138
 date_donate=2025-10-27
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=SKYLAKE-CLTO
 scad_extra_kernel=2026-10-27
 extra_system=
 scad_extra_system=
 freekh32_3-dmi=cc7c6cbc12cb0c9527d38685b3b1837e736f5b3d
 freekh32_3-hsh=bc7fa23375bc9b965cc1d0431d1da02ac50c66f7
+freekh32_3-hsh=34cae153a5dd806bff9e707e8a927aa7854c6db7
 ################################################################################
 username=boka
 email=boka.silvio@gmail.com
