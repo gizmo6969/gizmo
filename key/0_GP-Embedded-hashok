@@ -1299,7 +1299,7 @@ email=junpei-y@jcom.home.ne.jp
 donate=69
 date_donate=2024-07-29
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
@@ -1307,6 +1307,7 @@ scad_extra_system=
 junpeiy-dmi=06c3452ecc4c9b3dec515e7c22087ce099aa76a0
 junpeiy-hsh=2b16f29e9e37bf0af26e47d9130b17d80bd31680
 junpeiy-hsh=7a97b8697c2a5091caa7b7d528de3a27041c90e3
+junpeiy-hsh=977dcb7caaf5fcebe9eb94bfd16792a3e399aedc
 ################################################################################
 username=nyamsus3rd
 email=nyamsus3rd@gmail.com
