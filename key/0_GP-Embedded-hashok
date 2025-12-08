@@ -583,6 +583,7 @@ extra_system=EXTRM-ZNVER3
 scad_extra_system=2026-10-01
 cometdomi-dmi=f63fc5ea1080efb402ee7e842b8c8243495629ad
 cometdomi-hsh=66a40010644b4562bf24f5f735ed13cdc861c49d
+cometdomi-hsh=6879b63f5615d48c635dce6165622a81d7d2429f
 ################################################################################
 username=yu
 email=yu@diretta.link
