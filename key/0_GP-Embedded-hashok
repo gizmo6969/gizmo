@@ -2592,13 +2592,14 @@ email=info@meents.nl
 donate=69
 date_donate=2025-03-05
 scadenza=unlimited
-cambio_key=
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
 meents-dmi=dd3e33cb1185d5db2c31d10be843809709910cc5
-meents-hsh=febffea16205ef00d4a1a5895f90b1cea381b481
+meents-hsh=6face90027137a63af2753d509af45e923621b6c
+meents-hsh=d3d1ec8209ab94b4511142b55c07cede326f5a8a
 meents-hsh=36e1e788f5150daba1def50bcbecc20215aa1296
 meents-hsh=e39ebcebf5a0bcf23edf7d0eb8a004a0825e9704
 ################################################################################
