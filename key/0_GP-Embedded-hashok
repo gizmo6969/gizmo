@@ -3014,7 +3014,7 @@ email=morettidj@free.fr
 donate=70
 date_donate=2025-12-10
 scadenza=unlimited
-cambio_key=1
+cambio_key=2
 extra_kernel=
 scad_extra_kernel=
 extra_system=
@@ -3022,6 +3022,7 @@ scad_extra_system=
 morettidj-dmi=b05c7950d8b10455cb4195e644c441ac5e644ed8
 morettidj-hsh=7b2a6f1fa9d014624394dd8365268728938efe43
 morettidj-hsh=e75c137572d92cc044bedabd8db55f42bf6aa22f
+morettidj-hsh=0d5efb4f4eaed48ecf5cc4d4e5ab9191bba00059
 morettidj-hsh=24a39c4e0bf1ab0ef12a4aa0aae360f7e9c2c6d3
 morettidj-hsh=1fc11b22a6fb781c37cddbffae014eed5e6d4768
 ################################################################################
