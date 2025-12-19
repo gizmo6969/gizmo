@@ -4534,3 +4534,15 @@ extra_system=
 scad_extra_system=
 tlancesseur-hsh=e2bd2ccbbb82508557fb3fbf34893fe4ed9344fc
 ################################################################################
+username=will_1
+email=will@williambarber.com
+donate=138
+date_donate=2025-12-19
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2026-12-19
+extra_system=Rpi4-EXTRM
+scad_extra_system=2026-12-19
+will_1-hsh=491db9c7cd9d5ab9ec5fd17c8f423e6dec0f9f23
+################################################################################
