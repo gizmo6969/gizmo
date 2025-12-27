@@ -4383,12 +4383,12 @@ email=SAM.CHUI@dcl.com.hk
 donate=138
 date_donate=2025-12-02
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-chui_h-hsh=0dc23a20ab397fe35243b62a2036e68455a9a204
+chui_h-hsh=96b4ab647ec06c54be7158bfbd098315b3ebf064
 ################################################################################
 username=drhuy
 email=drhuy81@gmail.com
