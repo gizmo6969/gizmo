@@ -4714,3 +4714,15 @@ extra_system=Rpi4-EXTRM
 scad_extra_system=2026-12-29
 skyleve-hsh=1c8acc1ab3f302311731a3a005e209ee56d239f2
 ################################################################################
+username=michiels
+email=s.michiels@telenet.be
+donate=69
+date_donate=2026-01-03
+scadenza=unlimited
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+michiels-hsh=31cff2a3bae9620986b47ee39fe99b24ba4d516d
+################################################################################
