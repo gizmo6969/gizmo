@@ -2679,12 +2679,12 @@ email=merlinsoak@gmail.com
 donate=69
 date_donate=2025-12-30
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
-merlin-hsh=78c5c3464718e19c4f014bcb2367d32db7da7a7b
+merlin-hsh=d8bc1bd98883d67171e62a5ee9d0939da87fe8af
 ################################################################################
 username=henry_1
 email=henry.van.der.meijden@gmail.com
