@@ -4110,14 +4110,13 @@ email=Rudolf.Semper@hotmail.com
 donate=69
 date_donate=2025-12-26
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=ALDERLAKE-CLTO
 scad_extra_kernel=2026-12-28
 extra_system=ALDELAKE-EXTRM
 scad_extra_system=2026-12-28
-rudolf-dmi=1e11f1407eba2c3d9c94160e9aa4f64069e12692
-rudolf-hsh=9ef85a0f100475f671c7aede2e1fbf99b19fee05
-rudolf-hsh=c9d3695c585c458bf461321a82f70d421dc258af
+rudolf-dmi=ccb9764dffa8826d386725fad00de0806656b1ef
+rudolf-hsh=f4cdbed0d330414cc721c314673cc6d63b6e9e12
 ################################################################################
 username=shanyuhost
 email=hjl76421@126.com
