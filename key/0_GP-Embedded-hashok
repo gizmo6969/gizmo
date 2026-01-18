@@ -3694,13 +3694,14 @@ email=osamu.tsuzuki@nifty.com
 donate=69
 date_donate=2025-09-08
 scadenza=unlimited
-cambio_key=1
+cambio_key=2
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
 osamu-dmi=27858149badc69ed8f03ab0df21c49972b2e3453
 osamu-hsh=6ca47ef85122b4c6d7d6f9d1dbab5b8569d8f974
+osamu-hsh=9e82c67d332874a88c6b5e9d43c18f11cc16eaee
 ################################################################################
 username=john
 email=john@jdfly.net
