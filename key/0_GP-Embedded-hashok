@@ -4466,7 +4466,7 @@ scad_extra_system=
 nori-dmi=db4479be944cb744bd31541e9df96853c01677b4
 nori-hsh=02dfae836de0defb04b9eb62de0cc6d232ea4b85
 ################################################################################
-username=mattni
+username=hicas_user_003
 email=matt.ni@hicas.cn
 donate=250
 date_donate=2026-01-21
@@ -4476,9 +4476,9 @@ extra_kernel=x86-64-v3-CLTO
 scad_extra_kernel=2027-01-21
 extra_system=x86-64-v3-EXTRM
 scad_extra_system=2027-01-21
-mattni-dmi=f63fc5ea1080efb402ee7e842b8c8243495629ad
-mattni-hsh=4c70d51a596604a4530caff017f96c3701d3cfd9
-mattni-hsh=f962cb96708ee5fb558e581143affc64e773708f
-mattni-hsh=3e6265b46ade8dd48c1dc44c651a40252b578bf1
-mattni-hsh=e91752ee85be491b1ff936b3c4ae65a30431e611
+hicas_user_003-dmi=f63fc5ea1080efb402ee7e842b8c8243495629ad
+hicas_user_003-hsh=4c70d51a596604a4530caff017f96c3701d3cfd9
+hicas_user_003-hsh=f962cb96708ee5fb558e581143affc64e773708f
+hicas_user_003-hsh=3e6265b46ade8dd48c1dc44c651a40252b578bf1
+hicas_user_003-hsh=e91752ee85be491b1ff936b3c4ae65a30431e611
 ################################################################################
