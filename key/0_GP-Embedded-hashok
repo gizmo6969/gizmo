@@ -726,13 +726,14 @@ email=pwanner@pwanner.com
 donate=69
 date_donate=2024-04-23
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
 pwanner-dmi=eae89dc1a8517a7391a4a1e3d2bb1d1faab0b8d0
 pwanner-hsh=465da9c0a36f5d681c522165dd606ea5c63ebbe1
+pwanner-hsh=d250d0327008c377fb568f10c942653d80398ab9
 ################################################################################
 username=pobetpa
 email=pobetpa@gmail.com
