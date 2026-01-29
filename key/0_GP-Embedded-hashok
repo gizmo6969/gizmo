@@ -4542,3 +4542,17 @@ scad_extra_system=
 citymaster_1-dmi=f63fc5ea1080efb402ee7e842b8c8243495629ad
 citymaster_1-hsh=ce73bfb15fc0b33dd9c3aa01b05e26f4f5629e3a
 ################################################################################
+username=organics
+email=organics1@protonmail.com
+donate=138
+date_donate=2026-01-28
+scadenza=unlimited
+cambio_key=0
+extra_kernel=ZEN4-CLTO
+scad_extra_kernel=2027-01-29
+extra_system=EXTRM-x86-64-v4
+scad_extra_system=2027-01-29
+organics-dmi=850b6729528d5c0c1aae6ef65292b4a3c454f9bd
+organics-hsh=903d776fd13ed9483e84a24ccfc205d2637ed554
+organics-hsh=e0852b709c1c9e89326c9a2d59b1d45474e4add3
+################################################################################
