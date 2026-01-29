@@ -5026,3 +5026,15 @@ extra_system=Rpi4-EXTRM
 scad_extra_system=2027-01-26
 hicas_user_004-hsh=e3cf838183b585b84a852c2196f7a056d1c7a0e2
 ################################################################################
+username=jakub
+email=jakub.marsalek@icloud.com
+donate=138
+date_donate=2026-01-28
+scadenza=unlimited
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+jakub-hsh=6ca48414aa34bc21a075bf04790cfb6f07bf8d07
+################################################################################
