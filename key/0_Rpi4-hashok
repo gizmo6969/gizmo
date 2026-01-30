@@ -5050,3 +5050,15 @@ extra_system=
 scad_extra_system=
 rbedeiman_1-hsh=52978ff26b8c2426bb3f7d7c30c65f912931a586
 ################################################################################
+username=david_f
+email=david.ferriggi@gmail.com
+donate=138
+date_donate=2026-01-30
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2027-01-30
+extra_system=Rpi4-EXTRM
+scad_extra_system=2027-01-30
+david_f-hsh=93e78a6af753a3607c48e161e461c5d4f6f66e55
+################################################################################
