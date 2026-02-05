@@ -4558,3 +4558,16 @@ organics-dmi=850b6729528d5c0c1aae6ef65292b4a3c454f9bd
 organics-hsh=903d776fd13ed9483e84a24ccfc205d2637ed554
 organics-hsh=e0852b709c1c9e89326c9a2d59b1d45474e4add3
 ################################################################################
+username=rperezlillo
+email=rperezlillo@gmail.com
+donate=138
+date_donate=2026-02-05
+scadenza=unlimited
+cambio_key=0
+extra_kernel=SKYLAKE-CLTO
+scad_extra_kernel=2027-02-05
+extra_system=SKYLAKE-EXTRM
+scad_extra_system=2027-02-05
+rperezlillo-dmi=700ab25866be5784d3a8fe8501c780e71b9e54d3
+rperezlillo-hsh=a33eff1458ebb9dbd1575c96969e89b017c88536
+################################################################################
