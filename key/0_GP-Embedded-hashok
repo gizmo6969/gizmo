@@ -2226,13 +2226,14 @@ email=minefreedom@protonmail.com
 donate=69
 date_donate=2024-01-19
 scadenza=unlimited
-cambio_key=1
+cambio_key=2
 extra_kernel=
 scad_extra_kernel=
 extra_system=
 scad_extra_system=
 minefreedom-dmi=fc8087083c1ca70e6e20d18625042b4ea410c581
 minefreedom-hsh=d48556cfa9dff26d409e8d3c0f3e1598df4b6671
+minefreedom-hsh=77cff1496dd78aae00c5d93cd9a569ae6fab8b0c
 ################################################################################
 username=hakuja
 email=hakuja@gmail.com
