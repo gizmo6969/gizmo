@@ -5260,9 +5260,9 @@ donate=69
 date_donate=2026-02-16
 scadenza=unlimited
 cambio_key=0
-extra_kernel=
-scad_extra_kernel=
-extra_system=
-scad_extra_system=
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2027-02-17
+extra_system=Rpi4-EXTRM
+scad_extra_system=2027-02-17
 erichuang-hsh=c8e34930758aaafb85937a939189372111d7e289
 ################################################################################
