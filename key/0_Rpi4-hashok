@@ -5386,3 +5386,15 @@ extra_system=Rpi4-EXTRM
 scad_extra_system=2027-02-26
 hicas_user_006-hsh=e1ab5c94b2d1f05c82b0211ee25690fd36d20da1
 ################################################################################
+username=peter_1
+email=peter@blueoak.uk
+donate=69
+date_donate=2026-02-27
+scadenza=unlimited
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+peter_1-hsh=41914e94dc2ace0d770c0c15657fe495f0ac7a55
+################################################################################
