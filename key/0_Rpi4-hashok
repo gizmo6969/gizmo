@@ -5434,3 +5434,15 @@ extra_system=
 scad_extra_system=
 chami-hsh=433a0e4f8311c08c7f874d88910a354b59b6668c
 ################################################################################
+username=ewen
+email=ewen_3022@live.com
+donate=138
+date_donate=2026-03-04
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2027-03-04
+extra_system=Rpi4-EXTRM
+scad_extra_system=2027-03-04
+ewen-hsh=0a8547754b3c6bb13ca80c319dfd4915d11a7885
+################################################################################
