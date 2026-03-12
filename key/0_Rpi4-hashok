@@ -5506,3 +5506,15 @@ extra_system=
 scad_extra_system=
 rostropovichcello90-hsh=73f001736b864e572d47685322db733bdabecb07
 ################################################################################
+username=ezralizama
+email=ezralizama@gmail.com
+donate=138
+date_donate=2026-03-12
+scadenza=unlimited
+cambio_key=0
+extra_kernel=Rpi4-CLTO
+scad_extra_kernel=2027-03-12
+extra_system=Rpi4-EXTRM
+scad_extra_system=2027-03-12
+ezralizama-hsh=68a92139c61c058f4758e5d891e24de2c69ae8fe
+################################################################################
