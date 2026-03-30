@@ -4835,7 +4835,7 @@ email=chetan.phull@gmail.com
 donate=69
 date_donate=2026-03-20
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=
 scad_extra_kernel=
 extra_system=
@@ -4843,6 +4843,7 @@ scad_extra_system=
 chetan-dmi=3f895f5a7ab11708e218056153108d446b485e67
 chetan-hsh=02c08e1857ca2b8a97efb43fb08cf2fbafa7e50e
 chetan-hsh=6854d81004c69457e9d0d79692556cd5710884f6
+chetan-hsh=1a87f45ea5383a460b38aed6f4fac16e239dbf2e
 ################################################################################
 username=babicka
 email=babicka.michal@icloud.com
