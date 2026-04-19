@@ -3074,8 +3074,13 @@ extra_kernel=
 scad_extra_kernel=
 extra_system=x86-64-v3-EXTRM
 scad_extra_system=2026-06-12
-safarikim-dmi=c3eed6a1c279ad2146da5bed415a1afa497fe2ea
-safarikim-hsh=5c7647cf867f0193b4bd662c59820fe1341ad579
+safarikim-dmi=f63fc5ea1080efb402ee7e842b8c8243495629ad
+safarikim-hsh=9d07a9adaada5fc10ea7d750265a7aa696480c3f
+safarikim-hsh=04c400039137babfa1d89570f6b152b26a210c24
+safarikim-hsh=265b6a2cfe95a5c41661ac07bbad922bff9fcb25
+safarikim-hsh=14ee9d9015202956ee8ecae731dd71a33f07ac1c
+safarikim-hsh=5365cc5410e8869444e8c19de3db832c4e385b7f
+safarikim-hsh=93315d04764d1be2409941744b27809270e995ab
 ################################################################################
 username=safarikim_1
 email=safarikim_apple@naver.com
