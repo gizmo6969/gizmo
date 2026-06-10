@@ -5174,3 +5174,16 @@ jp_pierme-dmi=f63fc5ea1080efb402ee7e842b8c8243495629ad
 jp_pierme-hsh=a5574698ce21953f26755f92b17b7ae4ad876695
 jp_pierme-hsh=08020cb330c92d1785c3f8c2520f9b08d90b1b8d
 ################################################################################
+username=ryo
+email=ryo.kido@gmail.com
+donate=69
+date_donate=2026-06-09
+scadenza=unlimited
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+ryo-dmi=758db0d4aefa98394d8bc28c331f308641c75719
+ryo-hsh=69fb7c642bdb01a7aa2ffaa034083641ac3cc694
+################################################################################
