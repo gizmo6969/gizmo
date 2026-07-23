@@ -5274,8 +5274,10 @@ scad_extra_kernel=
 extra_system=
 scad_extra_system=
 phkland-dmi=f63fc5ea1080efb402ee7e842b8c8243495629ad
-phkland-hsh=dfb7aba3f0429ac067d8d2a3195a90a6ef859495
-phkland-hsh=5ade5f87154417f9113e6d76fefb3d53c9aee8d1
+phkland-hsh=bf48726504771e733f9f396160e5d6bd9662c6e7
+phkland-hsh=8935996a533a3b46a2786d72288c65e3f3d6e3ef
+phkland-hsh=8c617ac194bf3c8495c584fa43fa4838f4311d38
+phkland-hsh=a945d97550204e584c35809a5a6351a26f834a87
 ################################################################################
 username=byeonghunny
 email=byeonghunny@naver.com
