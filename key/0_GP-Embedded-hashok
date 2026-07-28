@@ -3379,11 +3379,12 @@ extra_kernel=ZEN5-CLTO
 scad_extra_kernel=2026-10-27
 extra_system=x86-64-v4-EXTRM
 scad_extra_system=2026-10-27
-freekh32-dmi=7f19b68c78366f3d46e808dacb4595ba4dd9faeb
+freekh32-dmi=b021571ed47704c15c537123c4c9775434231703
 freekh32-hsh=98f900973628f62b4d99b660f5a08f9c3df86850
 freekh32-hsh=dfbc1515fe8224227c34618e04a18ebcae583218
 freekh32-hsh=afc4a70444c86523da1d136dddedce94992727f0
 freekh32-hsh=339f1e0dfe0ac612c7f5dbb2834b4ee852d0de66
+freekh32-hsh=be373c9817ef5ba5f4eecb19fc1650e09f047b3b
 ################################################################################
 username=wouter
 email=wouter@dutoit.nz
