@@ -6411,12 +6411,12 @@ email=chiatiyan@gmail.com
 donate=69
 date_donate=2026-08-19
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=Rpi4-CLTO
 scad_extra_kernel=2027-08-20
 extra_system=Rpi4-EXTRM
 scad_extra_system=2027-08-20
-chiatiyan-hsh=8f880db1d49accb5807456356801430e9911db1f
+chiatiyan-hsh=423d37207078e6e24b5883b7b80bb9f6ee9499c4
 ################################################################################
 username=258523566
 email=258523566@qq.com
