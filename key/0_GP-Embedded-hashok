@@ -5600,3 +5600,17 @@ raidt-dmi=c7e24fe981977401da2bafb508dfbba6c3ea7275
 raidt-hsh=7b12c80214142daadc5d4f2c3dae5313ce9a476d
 raidt-hsh=e662696f89128c480362fb7e8866c0a81807fa41
 ################################################################################
+username=sakai
+email=sakai@oliospec.com
+donate=[C[5~
+date_donate=2026-09-16
+scadenza=unlimited
+cambio_key=0
+extra_kernel=
+scad_extra_kernel=
+extra_system=
+scad_extra_system=
+sakai-dmi=26ceda1405917ebd51d8809459b43d3173cc00e4
+sakai-hsh=ccce76d82ec2f363dbec234382dc86563e07c4fe
+sakai-hsh=824a7ae366803f7816cdd3ca5d9396dd9626f214
+################################################################################
