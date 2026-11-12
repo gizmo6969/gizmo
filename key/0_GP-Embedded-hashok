@@ -5824,7 +5824,7 @@ email=dirkjdevries@icloud.com
 donate=138
 date_donate=2026-11-07
 scadenza=unlimited
-cambio_key=0
+cambio_key=1
 extra_kernel=ZEN5-CLTO+x86-64-v4-CLTO
 scad_extra_kernel=2027-11-07
 extra_system=x86-64-v4-CLTO
@@ -5832,4 +5832,5 @@ scad_extra_system=2027-11-07
 dirkjdevries-dmi=5432146673988d36a116b891968e27e72f5cabc2
 dirkjdevries-hsh=148cdbe41ecabc5d9c714e417b35ac1d631f0045
 dirkjdevries-hsh=4d4be25fe1380a21a431f920a417656b183185fe
+dirkjdevries-hsh=5edbea6a6cf9a88cca0f11da37e1cb4dfd33eba8
 ################################################################################
